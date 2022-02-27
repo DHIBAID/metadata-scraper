@@ -1,5 +1,4 @@
 var opengraph = require('opengraph-io')({appId: process.env.key});
-
 var express = require('express');
 var app = express();
  
